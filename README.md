@@ -1,7 +1,7 @@
 # BlackStone Mafia Griefing Branch
 
 Welcome to the BlackStone Mafia Griefing Branch! <br />
-This repository is dedicated to documenting and organizing the activities, tools, and techniques used by the BlackStone Mafia for griefing.
+This repository is dedicated to documenting and organizing the activities, tools used by the BlackStone Mafia for griefing.
 
 ## Table of Contents
 
@@ -32,19 +32,33 @@ To get started with contributing to this branch, please follow these steps:
 - **Stay anonymous:** Always use VPNs and other anonymity tools to protect your identity.
 - **Documentation:** Document your activities and share your findings in the appropriate sections.
 
-## Tools and Scripts
+## Tools and Scripts 
 
-We use a variety of tools and scripts to carry out our activities. Check the `tools` and `scripts` folders for more information.
+We use a variety of tools and scripts to carry out our activities. <br />
+### Tool 1 : Custom Server Tracker 
+Check the [BSM-Server-Tracker](https://github.com/AG-Beam/BSM-Server-Tracker-V0.8) for more information.<br />
+In addition to the Custom Server Tracker, we use other private mods to enhance our griefing activities. <br />
+These mods are not publicly available but are integral to our operations.
+### Tool 2: Private Client
+Custom Client made by AG-Beam ( myself ) a project i have worked on for around 2-3 months <br />
+it is a major recode of a few hack clients and add-ons as well as 2 add-ons created by myself <br />
+i will soon be creating area for it displaying it and crediting all the clients used <br />
+`This client is used ONLY by Myself`
+### Features
+
+- Custom modifications tailored to our needs 
+- Enhanced functionality for specific tasks 
+- Regular updates and maintenance by the owner of BSM
+
+note - all of our code is private, i am not interested in selling nor will it ever be sold.
+
 
 ## Contributing
 
-We welcome contributions from all members. To contribute:
+We welcome contributions from all members. <br />
+To contribute: [Join Our Discord](https://discord.gg/4XMTTmNfqY)          <br />
 
-1. Fork the repository.
-2. Create a new branch: `git checkout -b feature/YourFeature`
-3. Commit your changes: `git commit -m 'Add some feature'`
-4. Push to the branch: `git push origin feature/YourFeature`
-5. Open a pull request.
+
 
 ## License
 
